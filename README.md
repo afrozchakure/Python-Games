@@ -10,7 +10,7 @@ These are all the projects made by me using the turtle module and pygame module.
     
     The paddel for player B can be moved using up, down, right and left arrow keys.
     
-3. snake_game.py --> Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. This game too has been made using the turtle module. 
+3. snake.py --> Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. This game too has been made using the turtle module. 
     
     The snake is to be maneuvered using the arrow keys up, down, left and right.
     
