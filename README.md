@@ -14,6 +14,6 @@ These are all the projects made by me using the turtle module and pygame module.
     
     The snake is to be maneuvered using the arrow keys up, down, left and right.
     
-4. to_do_list.py --> The goal was to make a simple "To do list" to keep track of the jobs you need to finish. The program has been designed using the turtle module. 
+4. to_do_list.py --> The goal was to create a simple "To do list" to keep track of the jobs you need to finish. The program has been designed using the Tkinter module (Standard GUI Library for Python). 
 
-    This To-do-List program can perform tasks such as Adding Tasks, Deleting tasks, Sorting the tasks (Either ascending or descending order), displaying a Random Task, and Displaying the total no. of tasks currently stored in the To-do-List.
+    This To-do-List program can perform jobs such as Adding Tasks, Deleting tasks, Sorting the tasks (Either in Ascending or Descending order), Displaying a Random Task, and Displaying the total no. of tasks currently stored in the To-do-List.
