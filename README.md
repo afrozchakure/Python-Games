@@ -1,5 +1,5 @@
 # pythonprojects
-These are all the projects made by me using the turtle module and pygame module.
+These are all the projects made by me using the Python's turtle, pygame and tkinter module:
 1. connect4.py --> For making this game I have used the pygame module. Connect4 is a two-player connection game in which the players take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
     
     The pieces are to be manoeuvred over the top of the board using your mouse and simply 'left-click' to drop the piece in the particular block. 
