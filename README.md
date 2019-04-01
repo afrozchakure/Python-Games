@@ -26,5 +26,6 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
 6. Dodge.py --> The Dodger game has the player control a small person (which we call the player’s character) who must dodge a whole bunch of baddies that fall from the top of the screen. The longer the player can keep dodging the baddies, the higher the score they will get.
     The player can maneuver using the arrow keys 'up', 'down', 'left' and 'right'
 
+7. client.py and server.py --> Created a chat server which takes in the name of the host and once the connection is set we can chat between the client and the server. The two files need to be run simultaneously.
      
      
