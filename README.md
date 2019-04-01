@@ -17,3 +17,11 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
 4. to_do_list.py --> The goal was to create a simple "To do list" to keep track of the jobs you need to finish. The program has been designed using the Tkinter module (Standard GUI Library for Python). 
 
     This To-do-List program can perform jobs such as Adding Tasks, Deleting tasks, Sorting the tasks (Either in Ascending or Descending order), Displaying a Random Task, and Displaying the total no. of tasks currently stored in the To-do-List.
+    
+5. Space_Invader --> The Space_Invaders is a classic arcade game. The goal is to defeat wave after wave of descending aliens with a horizontally moving laser to earn as many points as possible.
+     The player can maneuver the battleship using arrow key 'up', 'down', 'left' and 'right' and can fire bullets using spacebar.
+     Each time the bullet hits the enemy, the enemy is destroyed and the player gets a point.
+     I have added sounds for bullet fire and the bullet hitting the enemy.
+
+     
+     
