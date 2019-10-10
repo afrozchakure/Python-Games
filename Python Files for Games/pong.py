@@ -1,4 +1,3 @@
-# Referred video https://www.youtube.com/watch?v=LH8WgrUWG_I
 
 import turtle  # Turtle module is used for drawing shapes
 import os    # Its a module used for adding sound to our game
