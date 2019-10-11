@@ -13,7 +13,7 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
     </ul> 
 
 <br>
-<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/connect4.png' alt = 'Smily face' align = 'middle' height = 400px width = 650px ></img>
+<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/connect4.png' alt = 'Smily face' align = 'middle' height = 400px ></img>
     </li>
 <br>
 <li>
@@ -29,7 +29,7 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
         </ul>
     </ul>
 <br>
-<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/pong.png' alt = 'Smily face' align = 'middle' height = 400px width = 650px></img>
+<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/pong.png' alt = 'Smily face' align = 'middle' height = 400px ></img>
 </li>
 
 <br>
@@ -44,7 +44,7 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
     </ul>    
      
 <br>    
-<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/Snake.png' height = 400px width = 650px></img>
+<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/Snake.png' height = 400px ></img>
 </li>
 <br><br>
 <li>
@@ -56,7 +56,7 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
  </ul>
 
 <br>
-<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/to-do-list.png' alt = 'Smily face' align = 'middle' height = 450px width = 700px  ></img>
+<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/to-do-list.png' alt = 'Smily face' align = 'middle' height = 425px ></img>
 </li>
 <br>
 <li>
@@ -71,7 +71,7 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
     </ul>
 
 <br>
-<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/Space_Invaders.png' alt = 'Smily face' align = 'middle' height = 400px width = 650px ></img>
+<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/Space_Invaders.png' alt = 'Smily face' align = 'middle' height = 400px ></img>
 </li>
 
 <br>
@@ -85,7 +85,7 @@ These are all the projects made by me using the Python's turtle, pygame and tkin
             The player can maneuver using the arrow keys 'up', 'down', 'left' and 'right'</li></ul>
     </ul>
 <br>
-<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/dodge.png' alt = 'Smily face' align = 'middle' height = 400px width = 650px ></img>
+<img href src = 'https://github.com/afrozchakure/Python-Games-Images/blob/master/dodge.png' alt = 'Smily face' align = 'middle' height = 400px ></img>
 </li>    
 
 <br>
