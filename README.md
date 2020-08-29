@@ -5,6 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Python-Games?color=orange&style=for-the-badge)](https://github.com/afrozchakure/Python-Games/network)
 [![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Python-Games?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/afrozchakure/Python-Games?color=yellowgreen&style=for-the-badge)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/afrozchakure/Python-Games?color=red&style=for-the-badge)](https://badges.pufler.dev)
 
 ### All games made in Python - Pygame, Tkinter and Turtle
 
