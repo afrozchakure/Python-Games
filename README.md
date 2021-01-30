@@ -56,8 +56,20 @@
 ### 8. Event Certificate Generation script 
 * Generate certificates using a particular PNG file. The script uses an excel file with names of participants to create certificates with their name on it. Extremely helpful for those planning to run large scale events online. 
 
-#### Before 
-![](https://github.com/afrozchakure/Python-Games-Images/blob/master/Event Certificate Generation/certificate_sample.png)
+<p align="center">
+ <figure align='left'>
+ <center><img src="https://github.com/afrozchakure/Python-Games/blob/master/Event%20Certificate%20Generation/certificate_sample.jpg" width="370px">
+<figcaption>Before</figcaption>
+</center>
+</figure>
+ 
+ 
+<figure align='right'>
+<center><img src="https://github.com/afrozchakure/Python-Games/blob/master/Event%20Certificate%20Generation/final_output.PNG" width="370px">
+<figcaption>After</figcaption>
+</center>
+</figure>
+</p>
 
-#### After
-![](https://github.com/afrozchakure/Python-Games-Images/blob/master/Event Certificate Generation/final_output.png)
+
+
