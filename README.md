@@ -58,8 +58,8 @@
 
 #### Before and After running the script 
 <p align="center">
-  <img src="https://github.com/afrozchakure/Python-Games/blob/master/Event%20Certificate%20Generation/certificate_sample.jpg" width="450px" height="100%" padding="10px">  
-   <img src="https://github.com/afrozchakure/Python-Games/blob/master/Event%20Certificate%20Generation/final_output.PNG" width="450px" height="100%" padding="10px">
+  <img src="https://github.com/afrozchakure/Python-Games/blob/master/Event%20Certificate%20Generation/certificate_sample.jpg" width="370px" height="100%" padding="10px">  
+   <img src="https://github.com/afrozchakure/Python-Games/blob/master/Event%20Certificate%20Generation/final_output.PNG" width="370px" height="100%" padding="10px">
 </p>
 
 
