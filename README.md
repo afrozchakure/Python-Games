@@ -53,8 +53,8 @@
 ### 7. Client-Server Chat application
 * Created a chat server which takes in the name of the host and once the connection is set we can chat between the client and the server. The two files need to be run simultaneously.
 
-### 8. Event Certificate Generation script 
-* Generate certificates using a particular PNG file. The script uses an excel file with names of participants to create certificates with their name on it. Extremely helpful for those planning to run large scale events online. 
+### 8. Bulk Event Certificate Generation script 
+* Generate certificates in Bulk using a particular PNG file and names from excel file. The script uses an excel file with names of participants to create certificates with their name on it. Extremely helpful for those planning to run large scale events online. 
 
 #### Before and After running the script 
 <p align="center">
